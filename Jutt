@@ -1,6 +1,8 @@
 import os,sys,random
+os.system('clear')
 os.system('rm -rf FXKAPAOY')
 print('Loading Modules...')
 os.system('xdg-open https://www.youtube.com/@Business_Creation')
 os.system('clear')
 print(' FREE TRIAL TIME END ')
+exit()
