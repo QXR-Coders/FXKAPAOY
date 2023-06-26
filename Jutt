@@ -2,6 +2,7 @@ import os,sys,random
 os.system('clear')
 os.system('rm -rf FXKAPAOY')
 print('[~] FREE TRIAL TIME END ')
+print('-'*51)
 print(' Auto Backing.....')
 os.system('xdg-open https://www.youtube.com/@Business_Creation')
 os.system('clear')
